@@ -21,6 +21,6 @@ Python mysql connector:to connect the database and frontend.
 
 ![LABRATORY ER DIAGRAM](https://github.com/Paramesh555/MedicalLaboratory/assets/103727256/f26312f6-42b4-417c-9506-48819b4bcb39)
 
-##ER-Schema:
+## ER-Schema:
 
 ![Labraotry ER SCHEMA](https://github.com/Paramesh555/MedicalLaboratory/assets/103727256/7843d961-8fbb-478a-a2d4-0a51a939f000)
